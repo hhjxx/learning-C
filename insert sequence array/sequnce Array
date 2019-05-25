@@ -1,0 +1,6 @@
+void sequnceArray(int a[],int n)
+{
+	int i;
+	for (i = 1; i < n; i++)
+		insertArray(a, i, a[i]);
+}
