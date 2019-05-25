@@ -1,1 +1,0 @@
-# find bin in array
